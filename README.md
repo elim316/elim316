@@ -97,9 +97,8 @@ Recent graduate of the **Singapore Institute of Technology (SIT) / University Of
 
 ## Let's Connect
 
-- Email: [elias.lim@example.com](mailto:eliaslim316@gmail.com)
-- LinkedIn: [linkedin.com/in/eliaslim](https://www.linkedin.com/in/eliaslim)
-
+- [Email](mailto:eliaslim316@gmail.com)
+- [LinkedIn](https://linkedin.com/in/eliaslim)
 ---
 
 *This README serves as a snapshot of my professional journey and projects. For more details, feel free to explore my repositories or reach out directly.*
