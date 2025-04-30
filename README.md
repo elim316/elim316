@@ -29,8 +29,8 @@ I build trustworthy ML systems and web apps, with a strong focus on explainabili
 
 ## Featured Projects
 
-### [Brain Tumor Classification with Explainable AI](https://github.com/elim316/Brain-Tumour-Classification)
--   Deep learning + explainability for medical imaging.
+### [Brain Tumor Classification](https://github.com/elim316/Brain-Tumour-Classification)
+-   Deep learning for medical imaging.
 
 ### [TransportGPT – Generative AI for Traffic Management](https://github.com/elim316/TransportGPT)
 -   Traffic insights using LLMs and real-time data.
@@ -42,7 +42,7 @@ I build trustworthy ML systems and web apps, with a strong focus on explainabili
 - Financial app that assesses users' financial health based on key indicators.
 
 ### [HVAC Control Dashboard – Panasonic Collaboration](https://github.com/elim316/Panasonic-HVAC-Dashboard-overview)
-- Developed a centralised HVAC control system and responsive web dashboard with interactive widgets and 3D floor plan integration.
+- Centralised HVAC control system and responsive web dashboard with interactive widgets and 3D floor plan integration.
 
 ### [Operation Guardian – DSTA BrainHack 2024](https://github.com/elim316/TIL-AI-brainhack2024-project-overview)
 - Focused on NLP to transform transcribed speech into structured commands.
