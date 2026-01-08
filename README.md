@@ -38,14 +38,14 @@ I build trustworthy ML systems and web apps, with a strong focus on explainabili
 ### [OnlyNotes – Android Note-Sharing App](https://github.com/elim316/OnlyNotes-Note-Sharing-Application)
 -   Kotlin app for collaborative studying.
 
-### [LobangCube – Financial Wellness Assessment Tool](https://github.com/elim316/LobangCube-showcase)
-- Financial app that assesses users' financial health based on key indicators.
+?### [LobangCube – Financial Wellness Assessment Tool](https://github.com/elim316/LobangCube-showcase)
+?- Financial app that assesses users' financial health based on key indicators.
 
-### [HVAC Control Dashboard – Panasonic Collaboration](https://github.com/elim316/Panasonic-HVAC-Dashboard-overview)
-- Centralised HVAC control system and responsive web dashboard with interactive widgets and 3D floor plan integration.
+?### [HVAC Control Dashboard – Panasonic Collaboration](https://github.com/elim316/Panasonic-HVAC-Dashboard-overview)
+?- Centralised HVAC control system and responsive web dashboard with interactive widgets and 3D floor plan integration.
 
-### [Operation Guardian – DSTA BrainHack 2024](https://github.com/elim316/TIL-AI-brainhack2024-project-overview)
-- Focused on NLP to transform transcribed speech into structured commands.
+?### [Operation Guardian – DSTA BrainHack 2024](https://github.com/elim316/TIL-AI-brainhack2024-project-overview)
+?- Focused on NLP to transform transcribed speech into structured commands.
   
 ### [Uncertainty & Explainability in Battery Management AI Systems](https://github.com/elim316/UQ-XAI-battery-analytics)
 - Research project exploring uncertainty quantification (UQ) and explainable AI (XAI) for battery state-of-health (SOH) estimation.
