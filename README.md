@@ -56,7 +56,7 @@ I build trustworthy ML systems and web apps, with a strong focus on explainabili
 ## Research & Publications
 
 •⁠  ⁠Published: [IEEE Software Engineering Paper](https://ieeexplore.ieee.org/document/10892827)  
-•⁠  ⁠In Progress: [UQ & XAI for Battery Analytics](https://github.com/elim316/UQ-XAI-battery-analytics)
+•⁠  ⁠In Progress: [UQ & XAI for Battery Analytics](https://ieeexplore.ieee.org/document/11249263)
 
 
 ---
