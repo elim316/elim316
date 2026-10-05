@@ -38,4 +38,3 @@ Portfolio website: [elim316.github.io](https://elim316.github.io)
 
 - [Portfolio](https://elim316.github.io)
 - [LinkedIn](https://linkedin.com/in/eliaslim)
-- [Email](mailto:eliaslim316@gmail.com)
