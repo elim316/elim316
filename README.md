@@ -6,6 +6,8 @@
 
 I build agentic workflows, developer tools, full-stack web applications, and machine learning systems.
 
+Portfolio website: [elim316.github.io](https://elim316.github.io)
+
 ---
 
 ## Featured projects
@@ -34,5 +36,6 @@ I build agentic workflows, developer tools, full-stack web applications, and mac
 
 ## Connect
 
+- [Portfolio](https://elim316.github.io)
 - [LinkedIn](https://linkedin.com/in/eliaslim)
 - [Email](mailto:eliaslim316@gmail.com)
