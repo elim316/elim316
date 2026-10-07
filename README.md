@@ -14,10 +14,10 @@ Portfolio website: [elim316.github.io](https://elim316.github.io)
 
 ## Featured projects
 
-### [Jetski Agent Tracer Plugin](https://github.com/elim316/Jetski-Agent-Tracer-Plugin)
+### [Antigravity Agent Tracer Plugin](https://github.com/elim316/Antigravity-Agent-Tracer-Plugin)
 - Real-time execution graph and three-lane architecture visualiser for autonomous agents (Python, Vis.js, SVG).
 
-### [Smart Meeting Prep and Dossier Agent](https://github.com/elim316/Jetski-Meeting-Prep-Agent)
+### [Smart Meeting Prep and Dossier Agent](https://github.com/elim316/Antigravity-Meeting-Prep-Agent)
 - Two-stage autonomous agent workflow with a 5-scenario, 36-check hallucination-linted evaluation harness.
 
 ### [EduVerse](https://github.com/elim316/eduverse)
