@@ -4,9 +4,7 @@
 ![AI and ML](https://img.shields.io/badge/AI_%26_ML-LLM_Agents_%7C_PyTorch_%7C_Conformal_Prediction_%7C_XAI-059669?style=flat-square)
 ![Systems and Cloud](https://img.shields.io/badge/Cloud-Google_Cloud_%7C_Terraform_%7C_Docker_%7C_Next.js-7C3AED?style=flat-square)
 
-I am a Cloud and AI Engineer at Google in Singapore, previously a Trust Software Engineer on Grab's Trust, Identity and Safety team and an AI Research Intern at A*STAR. I hold a BSc (Hons) in Computer Science from the University of Glasgow and the Singapore Institute of Technology.
-
-I enjoy building zero-trust cloud architectures, high-scale backend services, autonomous agent observability tools, and uncertainty-aware machine learning systems. Outside of work, I enjoy basketball, pickleball, and hunting for vintage pieces while thrifting.
+I am a Cloud at Google. I enjoy building zero-trust cloud architectures, high-scale backend services, autonomous agent observability tools, and uncertainty-aware machine learning systems. 
 
 Portfolio website: [elim316.github.io](https://elim316.github.io)
 
