@@ -4,10 +4,8 @@
 ![AI and ML](https://img.shields.io/badge/AI_%26_ML-LLM_Agents_%7C_PyTorch_%7C_Conformal_Prediction_%7C_XAI-059669?style=flat-square)
 ![Systems and Cloud](https://img.shields.io/badge/Cloud-Google_Cloud_%7C_Terraform_%7C_Docker_%7C_Next.js-7C3AED?style=flat-square)
 
-I am a Cloud engineer at Google. I enjoy building zero-trust cloud architectures, high-scale backend services, autonomous agent observability tools, and uncertainty-aware machine learning systems. 
+I am a Cloud engineer at Google. I enjoy building zero-trust cloud architectures, high-scale backend services, autonomous agent observability tools ([Antigravity Agent Tracer](https://github.com/elim316/Antigravity-Agent-Tracer-Plugin), 1st Place at Google's AI Agent Lab Hackathon 2026), and uncertainty-aware machine learning systems.
 
 Portfolio website: [elim316.github.io](https://elim316.github.io)
 
 Google scholar: [Publications](https://scholar.google.com/citations?user=f2hfYeoAAAAJ&hl=en)
-
-
