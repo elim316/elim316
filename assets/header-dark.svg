@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 124" width="100%" role="img" aria-label="Hi, I'm Elias Lim - Cloud and AI Engineer at Google">
+  <defs>
+    <clipPath id="card-clip">
+      <rect x="1" y="1" width="838" height="122" rx="14" ry="14" />
+    </clipPath>
+  </defs>
+
+  <!-- Card Background & Border -->
+  <rect x="1" y="1" width="838" height="122" rx="14" ry="14" fill="#161B22" stroke="#30363D" stroke-width="1.25" />
+
+  <!-- Official Google 4-Colour Top Spectrum Bar -->
+  <g clip-path="url(#card-clip)">
+    <rect x="0" y="0" width="210" height="5" fill="#4285F4" />
+    <rect x="210" y="0" width="210" height="5" fill="#EA4335" />
+    <rect x="420" y="0" width="210" height="5" fill="#FBBC05" />
+    <rect x="630" y="0" width="210" height="5" fill="#34A853" />
+  </g>
+
+  <!-- Left Google 4-Colour Monogram Tile -->
+  <g transform="translate(28, 30)">
+    <rect x="0" y="0" width="64" height="64" rx="16" fill="#202124" stroke="#3C4043" stroke-width="1.25" />
+    <path d="M 16 1.25 H 48 A 14.75 14.75 0 0 1 62.75 16 V 20 H 1.25 V 16 A 14.75 14.75 0 0 1 16 1.25 Z" fill="#8AB4F8" opacity="0.12" />
+    <circle cx="20" cy="15" r="3.2" fill="#8AB4F8" />
+    <circle cx="29" cy="15" r="3.2" fill="#F28B82" />
+    <circle cx="38" cy="15" r="3.2" fill="#FDD663" />
+    <circle cx="47" cy="15" r="3.2" fill="#81C995" />
+    <text x="32" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Google Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#E8EAED" letter-spacing="-0.5">EL</text>
+  </g>
+
+  <!-- Main Heading & Subtitle -->
+  <text x="112" y="57" font-family="-apple-system, BlinkMacSystemFont, 'Google Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#E8EAED" letter-spacing="-0.4">Hi, I'm Elias Lim</text>
+  <text x="112" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Google Sans Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#9AA0A6">Cloud &amp; AI Engineer at Google Singapore</text>
+
+  <!-- Right Google Pill Badge -->
+  <g transform="translate(604, 42)">
+    <rect x="0" y="0" width="208" height="40" rx="20" fill="#202124" stroke="#3C4043" stroke-width="1" />
+    <circle cx="22" cy="20" r="4.5" fill="#4285F4" />
+    <circle cx="35" cy="20" r="4.5" fill="#EA4335" />
+    <circle cx="48" cy="20" r="4.5" fill="#FBBC05" />
+    <circle cx="61" cy="20" r="4.5" fill="#34A853" />
+    <text x="77" y="24.5" font-family="-apple-system, BlinkMacSystemFont, 'Google Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#E8EAED">Google Cloud &amp; AI</text>
+  </g>
+</svg>
